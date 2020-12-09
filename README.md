@@ -24,3 +24,5 @@ Mastery over core computer science concepts.
 
 ### - 💬 Ask me about:
 Beginning your journey into web development.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=chijindujulian)
