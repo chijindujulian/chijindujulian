@@ -1,5 +1,6 @@
 <!--
 **chijindujulian/chijindujulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Mic check (clears throat)....and we are live :rocket:
 
@@ -22,5 +23,3 @@ Mastery over core computer science concepts.
 
 - 💬 Ask me about:
 Beginning your journey into web development.
-
--->
