@@ -11,7 +11,7 @@ An ecommerce web application for Monzad, a fashion retail store in Nigeria that 
 Built with - HTML & Tailwind (front-end), PHP & SQL (back-end).
 
 ### - 🌱 I’m currently learning:
-Introduction to data structures using freecodecamp and youtube videos and resources.
+Introduction to data structures using freecodecamp, youtube videos and resources.
 
 ### - 😄 Pronouns:
 He/Him/Them => 😄-ha
