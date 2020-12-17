@@ -4,7 +4,7 @@
 
 Mic check (clears throat)....and we are live :rocket:
 
-If i were facing you right now, i hope i would not feel as awkward as i do trying to find the words to make a very good first impression on you, my dear friend. Hello there 👋, I am Chijindu Julian, a front end web developer with a love for minimalism in web design. I adore clean UIs, thoughtful, solution oriented UX and a great product story.
+If i were facing you right now, i hope i would not feel as awkward as i do trying to find the words to make a very good first impression on you, my dear friend. Hello there 👋, I am Xijindu Julian, a front end web developer with a love for minimalism in web design. I adore clean UIs, thoughtful, solution oriented UX and a great product story.
 
 ### - 🔭 I'm currently working on:
 An ecommerce web application for Monzad, a fashion retail store in Nigeria that sells female denim products. <br>
